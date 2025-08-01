@@ -67,7 +67,7 @@ This is the backend system for a movie reservation service, which allows users t
     DB_HOST=localhost
     DB_USER=root
     DB_PASSWORD=your_password
-    DB_NAME=movie_reservation
+    DB_NAME=movie_reservation_db
     JWT_SECRET=your_jwt_secret
     ```
 
